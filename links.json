@@ -1,0 +1,43 @@
+{
+  "categories": [
+    {
+      "name": "Gaming",
+      "links": [
+        {
+          "title": "Ruffle Game Emulator Library",
+          "description": "Library of flash games playable with Ruffle",
+          "url": "//n1-games.cbx.kiwi",
+          "displayUrl": "n1-games.cbx.kiwi"
+        },
+        {
+          "title": "Game Hub",
+          "description": "Hub for various online node.js and html5 games",
+          "url": "//n2-games.cbx.kiwi",
+          "displayUrl": "n2-games.cbx.kiwi (coming soon)"
+        }
+      ]
+    },
+    {
+        "name": "Utilities",
+        "links": [
+          {
+            "title": "cbx homepage",
+            "description": "The homepage for cbx services",
+            "url": "//cbx.kiwi",
+            "displayUrl": "cbx.kiwi"
+    }
+  ]
+},
+{
+    "name": "Projects",
+    "links": [
+      {
+        "title": "Oxidepedia",
+        "description": "a wikipedia made for gm_oxdie",
+        "url": "//oxdiepedia.cbx.kiwi",
+        "displayUrl": "oxdiepedia.cbx.kiwi"
+}
+    ]
+}
+    ]
+    }
