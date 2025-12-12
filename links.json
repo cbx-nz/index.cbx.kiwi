@@ -23,8 +23,8 @@
           {
             "title": "cbx homepage",
             "description": "The homepage for cbx services",
-            "url": "//cbx.kiwi",
-            "displayUrl": "cbx.kiwi"
+            "url": "//web.cbx.kiwi",
+            "displayUrl": "web.cbx.kiwi"
     }
   ]
 },
