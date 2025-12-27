@@ -5,7 +5,7 @@
       "links": [
         {
           "title": "Ruffle Game Emulator Library",
-          "description": "Library of flash games playable with Ruffle",
+          "description": "Library of flash games playable with Ruffle disguised as a maths forum",
           "url": "//n1-games.cbx.kiwi",
           "displayUrl": "n1-games.cbx.kiwi"
         },
@@ -34,7 +34,7 @@
       {
         "title": "Oxdiepedia",
         "description": "a wikipedia made for gm_oxdie (coming soon)",
-        "url": "//example.com",
+        "url": "",
         "displayUrl": "oxdiepedia.cbx.kiwi"
 }
     ]
