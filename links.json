@@ -25,7 +25,13 @@
             "description": "The homepage for cbx services",
             "url": "//web.cbx.kiwi",
             "displayUrl": "web.cbx.kiwi"
-    }
+    },
+          {
+            "title": "cbx nogpt project",
+            "description": "The place where I just learn javascript and make stuff without genAI",
+            "url": "//nogpt.cbx.kiwi",
+            "displayUrl": "nogpt.cbx.kiwi"
+          }
   ]
 },
 {
