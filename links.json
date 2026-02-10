@@ -21,22 +21,22 @@
         "name": "Utilities",
         "links": [
           {
+            "title":"Main Website",
+            "description": "The website for cbx.nz (coming soon!)",
+            "url": "//www.cbx.kiwi",
+            "displayUrl": "www.cbx.kiwi"
+          },
+          {
             "title": "Legacy Website",
             "description": "The homepage for cbx services",
             "url": "//web.cbx.kiwi",
             "displayUrl": "web.cbx.kiwi"
-    },
+          },
           {
             "title": "cbx nogpt project",
             "description": "The place where I just learn javascript,css,nodejs and make stuff without genAI",
             "url": "//nogpt.cbx.kiwi",
             "displayUrl": "nogpt.cbx.kiwi"
-          },
-          {
-            "title":"Main Website",
-            "description": "The website for cbx.nz (coming soon!)",
-            "url": "//www.cbx.kiwi",
-            "displayUrl": "www.cbx.kiwi"
           }
   ]
 },
