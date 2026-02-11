@@ -37,6 +37,12 @@
             "description": "The place where I just learn javascript,css,nodejs and make stuff without genAI",
             "url": "//nogpt.cbx.kiwi",
             "displayUrl": "nogpt.cbx.kiwi"
+          },
+          {
+            "title": "cbx redirect system",
+            "description": "The system for redirects of my personal needs",
+            "url": "//aka.cbx.kiwi",
+            "displayUrl": "aka.cbx.kiwi"
           }
   ]
 },
