@@ -1,6 +1,17 @@
 {
   "categories": [
     {
+      "name": "Active Use",
+      "links": [
+        {
+          "title":"Digital StevePoints 2026",
+          "description":"version 2026.1 of my project 'Digital StevePoints' for my school.",
+          "url": "//aka.cbx.kiwi/sp",
+          "displayUrl": "stevepoints.cbx.kiwi"
+        }
+      ]
+    },
+    {
       "name": "Gaming",
       "links": [
         {
