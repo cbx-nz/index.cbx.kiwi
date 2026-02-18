@@ -64,7 +64,7 @@
   ]
 },
 {
-  "name": "Alternative Domains",
+  "name": "Alternative sub-Domains",
   "links": [
     {
       "title": "Ruffle Game Emulator Library",
@@ -74,7 +74,7 @@
     },
     {
        "title":"Digital StevePoints 2026",
-          "description":"version 2026.1 of my project 'Digital StevePoints' for my school. !not tested yet!",
+          "description":"version 2026.1 of my project 'Digital StevePoints' for my school. Caution, still does not work on school wifi.",
           "url": "//stevep-app.cbx.kiwi",
           "displayUrl": "stevep-app.cbx.kiwi"
     }
