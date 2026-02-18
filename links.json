@@ -50,11 +50,34 @@
             "displayUrl": "nogpt.cbx.kiwi"
           },
           {
+            "title": "cbx nogpt testing",
+            "description": "The place where I just learn javascript,css,nodejs and make stuff without genAI, testing environment.",
+            "url": "//dev-nogpt.cbx.kiwi",
+            "displayUrl": "dev-nogpt.cbx.kiwi"
+          },
+          {
             "title": "cbx redirect system",
             "description": "The system for redirects of my personal needs",
             "url": "//aka.cbx.kiwi",
             "displayUrl": "aka.cbx.kiwi"
           }
+  ]
+},
+{
+  "name": "Alternative Domains",
+  "links": [
+    {
+      "title": "Ruffle Game Emulator Library"
+      "description": "Library of flash games playable with Ruffle disguised as a maths forum",
+          "url": "//maths.cbx.kiwi",
+          "displayUrl": "maths.cbx.kiwi"
+    },
+    {
+       "title":"Digital StevePoints 2026",
+          "description":"version 2026.1 of my project 'Digital StevePoints' for my school. !not tested yet!",
+          "url": "//stevep-app.cbx.kiwi",
+          "displayUrl": "stevep-app.cbx.kiwi"
+    }
   ]
 },
 {
