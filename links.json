@@ -67,7 +67,7 @@
   "name": "Alternative Domains",
   "links": [
     {
-      "title": "Ruffle Game Emulator Library"
+      "title": "Ruffle Game Emulator Library",
       "description": "Library of flash games playable with Ruffle disguised as a maths forum",
           "url": "//maths.cbx.kiwi",
           "displayUrl": "maths.cbx.kiwi"
