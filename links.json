@@ -8,6 +8,12 @@
           "description":"version 2026.1 of my project 'Digital StevePoints' for my school. !!DOES NOT WORK ON SCHOOL WIFI!!",
           "url": "//aka.cbx.kiwi/sp",
           "displayUrl": "stevepoints.cbx.kiwi"
+        },
+        {
+          "title":"Main Website",
+            "description": "The website for cbx.nz (Now Available)",
+            "url": "//www.cbx.kiwi",
+            "displayUrl": "www.cbx.kiwi"
         }
       ]
     },
@@ -33,13 +39,13 @@
         "links": [
           {
             "title":"Main Website",
-            "description": "The website for cbx.nz (coming soon!)",
+            "description": "The website for cbx.nz",
             "url": "//www.cbx.kiwi",
             "displayUrl": "www.cbx.kiwi"
           },
           {
             "title": "Legacy Website",
-            "description": "The homepage for cbx services",
+            "description": "The homepage for cbx services (old!)",
             "url": "//web.cbx.kiwi",
             "displayUrl": "web.cbx.kiwi"
           },
