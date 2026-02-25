@@ -83,7 +83,7 @@
           "description":"version 2026.1 of my project 'Digital StevePoints' for my school. Caution, still does not work on school wifi.",
           "url": "//stevep-app.cbx.kiwi",
           "displayUrl": "stevep-app.cbx.kiwi"
-    },
+    }
   ]
 },
 {
@@ -93,7 +93,7 @@
       "title":"Digital StevePoints 2026",
           "description":"Official Domain, Blocked - Games Reason",
           "url": "//stevep-app.cbx.kiwi",
-          "displayUrl": "stevep-app.cbx.kiwi",
+          "displayUrl": "stevep-app.cbx.kiwi"
       
     },
      {
@@ -128,7 +128,7 @@
         }
     
   ]
-}
+},
 {
     "name": "Projects",
     "links": [
