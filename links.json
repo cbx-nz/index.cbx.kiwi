@@ -5,7 +5,7 @@
       "links": [
         {
           "title":"Digital StevePoints 2026",
-          "description":"version 2026.1 of my project 'Digital StevePoints' for my school. !!DOES NOT WORK ON SCHOOL WIFI!!",
+          "description":"version 2026.1 of my project 'Digital StevePoints' for my school.",
           "url": "//aka.cbx.kiwi/sp",
           "displayUrl": "stevepoints.cbx.kiwi"
         },
@@ -83,9 +83,52 @@
           "description":"version 2026.1 of my project 'Digital StevePoints' for my school. Caution, still does not work on school wifi.",
           "url": "//stevep-app.cbx.kiwi",
           "displayUrl": "stevep-app.cbx.kiwi"
-    }
+    },
   ]
 },
+{
+  "name": "SteveP Online",
+  "links": [
+    {
+      "title":"Digital StevePoints 2026",
+          "description":"Official Domain, Blocked - Games Reason",
+          "url": "//stevep-app.cbx.kiwi",
+          "displayUrl": "stevep-app.cbx.kiwi",
+      
+    },
+     {
+          "title":"Digital StevePoints 2026",
+          "description":"Official Domain, Blocked - Games Reason",
+          "url": "//aka.cbx.kiwi/sp",
+          "displayUrl": "stevepoints.cbx.kiwi"
+        },
+    {
+          "title":"Digital StevePoints 2026",
+          "description":"Official Domain, Blocked - Games Reason",
+          "url": "//stevep.cbx.kiwi",
+          "displayUrl": "stevep.cbx.kiwi"
+        },
+    {
+          "title":"Digital StevePoints 2026",
+          "description":"Official Domain, Blocked - Games Reason",
+          "url": "//sp.cbx.kiwi",
+          "displayUrl": "sp.cbx.kiwi"
+        },
+    {
+          "title":"Digital StevePoints 2026",
+          "description":"Vercel Domain, Unblocked",
+          "url": "//stevepoints-cbx-kiwi.vercel.app",
+          "displayUrl": "stevepoints-cbx-kiwi.vercel.app"
+        },
+    {
+          "title":"Digital StevePoints 2026",
+          "description":"Vercel Domain, Unblocked",
+          "url": "//stevepoints.vercel.app",
+          "displayUrl": "stevepoints.vercel.app"
+        }
+    
+  ]
+}
 {
     "name": "Projects",
     "links": [
