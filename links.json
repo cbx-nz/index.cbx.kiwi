@@ -90,43 +90,54 @@
   "name": "SteveP Online",
   "links": [
     {
-      "title":"Digital StevePoints 2026",
+      "title":"SteveP - App",
           "description":"Official Domain, Blocked - Games Reason",
           "url": "//stevep-app.cbx.kiwi",
           "displayUrl": "stevep-app.cbx.kiwi"
       
     },
      {
-          "title":"Digital StevePoints 2026",
+          "title":"Main Link",
           "description":"Official Domain, Blocked - Games Reason",
           "url": "//aka.cbx.kiwi/sp",
           "displayUrl": "stevepoints.cbx.kiwi"
         },
     {
-          "title":"Digital StevePoints 2026",
+          "title":"SteveP",
           "description":"Official Domain, Blocked - Games Reason",
           "url": "//stevep.cbx.kiwi",
           "displayUrl": "stevep.cbx.kiwi"
         },
     {
-          "title":"Digital StevePoints 2026",
+          "title":"SP Online",
           "description":"Official Domain, Blocked - Games Reason",
           "url": "//sp.cbx.kiwi",
           "displayUrl": "sp.cbx.kiwi"
         },
     {
-          "title":"Digital StevePoints 2026",
+          "title":"Vercel Main",
           "description":"Vercel Domain, Unblocked",
           "url": "//stevepoints-cbx-kiwi.vercel.app",
           "displayUrl": "stevepoints-cbx-kiwi.vercel.app"
         },
     {
-          "title":"Digital StevePoints 2026",
+          "title":"Vercel Short",
           "description":"Vercel Domain, Unblocked",
           "url": "//stevepoints.vercel.app",
           "displayUrl": "stevepoints.vercel.app"
+        },
+        {
+          "title":"SPO",
+          "description":"Official Domain, Untested",
+          "url": "//spo.cbx.kiwi",
+          "displayUrl": "spo.cbx.kiwi"
+        },
+        {
+          "title":"SP Online FR",
+          "description":"Official Domain, Untested",
+          "url": "//sponline.cbx.kiwi",
+          "displayUrl": "sponline.cbx.kiwi"
         }
-    
   ]
 },
 {
