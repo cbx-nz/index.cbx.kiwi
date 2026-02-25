@@ -44,6 +44,12 @@
             "displayUrl": "www.cbx.kiwi"
           },
           {
+            "title":"2LD Directory",
+            "description": "The directory for cbx.kiwi",
+            "url": "//i.cbx.kiwi",
+            "displayUrl": "index.cbx.kiwi"
+          },
+          {
             "title": "Legacy Website",
             "description": "The homepage for cbx services (old!)",
             "url": "//web.cbx.kiwi",
