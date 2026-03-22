@@ -147,6 +147,16 @@
   ]
 },
 {
+  "name": "Business",
+  "links": [{
+    "title": "PAN6 Cluster Alliance",
+    "description": "a website for a custom-made allicance - Pacific-Atlantic-Noridic Six Alliance, CANZUK-FI-NL",
+    "url": "//pan6.cbx.kiwi",
+    "displayUrl": "pan6.cbx.kiwi"
+  }
+    ]
+},
+{
     "name": "Projects",
     "links": [
       {
