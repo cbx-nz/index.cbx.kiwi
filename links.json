@@ -172,6 +172,29 @@
   "displayUrl": "nbtf.ca"
 }
     ]
+},
+{
+  "name": "Schedule I Mock Websites",
+  "links": [
+    {
+      "title": "HRD",
+      "description": "hrd.cbx.kiwi is a redirect to hylandradio.cbx.kiwi",
+      "url": "//hrd.cbx.kiwi",
+      "displayUrl": "hrd.cbx.kiwi"
+    },
+    {
+      "title": "Hyland Point Radio",
+      "description": "Hyland Point Radio is the central radio station for Hyland Point",
+      "url": "//hylandradio.cbx.kiwi",
+      "displayUrl": "hylandradio.cbx.kiwi"
+    },
+    {
+      "title": "Top Tattoo Parlor",
+      "description": "Top Tattoo, located in Westville, a place to get your tattoos",
+      "url": "//toptattoo.cbx.kiwi",
+      "displayUrl": "toptattoo.cbx.kiwi"
+    }
+    ]
 }
     ]
     }
