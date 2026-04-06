@@ -174,7 +174,7 @@
     ]
 },
 {
-  "name": "Schedule I Mock Websites",
+  "name": "Schedule I Mock Websites .si.cbx",
   "links": [
     {
       "title": "HRD",
@@ -186,13 +186,13 @@
       "title": "Hyland Point Radio",
       "description": "Hyland Point Radio is the central radio station for Hyland Point",
       "url": "//hylandradio.cbx.kiwi",
-      "displayUrl": "hylandradio.cbx.kiwi"
+      "displayUrl": "hylandradio.si.cbx.kiwi"
     },
     {
       "title": "Top Tattoo Parlor",
       "description": "Top Tattoo, located in Westville, a place to get your tattoos",
       "url": "//toptattoo.cbx.kiwi",
-      "displayUrl": "toptattoo.cbx.kiwi"
+      "displayUrl": "toptattoo.si.cbx.kiwi"
     }
     ]
 }
